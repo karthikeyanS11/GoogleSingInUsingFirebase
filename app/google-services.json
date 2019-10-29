@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1018641609055",
+    "firebase_url": "https://singinusingfirebase.firebaseio.com",
+    "project_id": "singinusingfirebase",
+    "storage_bucket": "singinusingfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018641609055:android:b854f9984e89f5060f46ea",
+        "android_client_info": {
+          "package_name": "com.example.googlesinginusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018641609055-mt84qgp04o0v0h48p28pkgvkh8p8dr1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlesinginusingfirebase",
+            "certificate_hash": "28d80850c89aa7f827bc32c8481c2b2ad01f187c"
+          }
+        },
+        {
+          "client_id": "1018641609055-2vm7vg9n0q17dsfn5igr924tmosibgta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPumxc89G6sAqfG3d4o9ndbm17YMjwwEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018641609055-2vm7vg9n0q17dsfn5igr924tmosibgta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
